@@ -184,3 +184,8 @@ FakesAssemblies/
 /.vs/solitaire/v17
 /.vs/solitaire/FileContentIndex
 /Solitaire/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Solitaire/bin/Debug/Solitaire.exe
+/Solitaire/obj/Debug/Solitaire.csproj.FileListAbsolute.txt
+/Solitaire/obj/Debug/Solitaire.csproj.GenerateResource.Cache
+/Solitaire/obj/Debug/Solitaire.exe
+/Solitaire/obj/Debug/Solitaire.pdb

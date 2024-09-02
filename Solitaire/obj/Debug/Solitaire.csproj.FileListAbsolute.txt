@@ -1,8 +1,0 @@
-d:\utilisateurs\fjuhel\documents\visual studio 2012\Projects\Solitaire\Solitaire\bin\Debug\Solitaire.exe
-d:\utilisateurs\fjuhel\documents\visual studio 2012\Projects\Solitaire\Solitaire\bin\Debug\Solitaire.pdb
-d:\utilisateurs\fjuhel\documents\visual studio 2012\Projects\Solitaire\Solitaire\obj\Debug\Solitaire.csprojResolveAssemblyReference.cache
-d:\utilisateurs\fjuhel\documents\visual studio 2012\Projects\Solitaire\Solitaire\obj\Debug\Solitaire.Form1.resources
-d:\utilisateurs\fjuhel\documents\visual studio 2012\Projects\Solitaire\Solitaire\obj\Debug\Solitaire.Properties.Resources.resources
-d:\utilisateurs\fjuhel\documents\visual studio 2012\Projects\Solitaire\Solitaire\obj\Debug\Solitaire.csproj.GenerateResource.Cache
-d:\utilisateurs\fjuhel\documents\visual studio 2012\Projects\Solitaire\Solitaire\obj\Debug\Solitaire.exe
-d:\utilisateurs\fjuhel\documents\visual studio 2012\Projects\Solitaire\Solitaire\obj\Debug\Solitaire.pdb
